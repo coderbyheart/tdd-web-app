@@ -1,4 +1,4 @@
-# Simple Website TDD starter
+# Website TDD starter
 
 Includes test for the ReactApp and plain libraries.
 
